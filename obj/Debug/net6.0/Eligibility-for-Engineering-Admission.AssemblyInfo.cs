@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eligibility-for-Engineering-Admission")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a167d4d4a7b690ff92ac243beb746ed8c8b573be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85e34a49a23b77eca5c7188fca76cfe80ee39ad0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eligibility-for-Engineering-Admission")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eligibility-for-Engineering-Admission")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

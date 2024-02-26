@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj": {}
+    "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp1\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj": {
+    "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp1\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
+        "projectUniqueName": "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp1\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
         "projectName": "Eligibility-for-Engineering-Admission",
-        "projectPath": "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
+        "projectPath": "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp1\\Eligibility-for-Engineering-Admission\\Eligibility-for-Engineering-Admission.csproj",
         "packagesPath": "C:\\Users\\yjaya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp\\Eligibility-for-Engineering-Admission\\obj\\",
+        "outputPath": "C:\\Users\\yjaya\\OneDrive\\Desktop\\csharp1\\Eligibility-for-Engineering-Admission\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yjaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
